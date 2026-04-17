@@ -1,0 +1,10 @@
+{
+  "terraform": "1.14.1",
+  "awscli": "2.34.31",
+  "ansible": "core",
+  "nodejs": "20.20.2",
+  "npm": "10.8.2",
+  "http-server": "v14.1.1",
+  "gcloud": "",
+  "azurecli": "2.85.0"
+}
